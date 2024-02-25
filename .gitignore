@@ -1,0 +1,18 @@
+# Ignorar directorios de datos y registros
+logs/
+world/
+world_nether/
+world_the_end/
+
+# Ignorar archivos generados por Bundler (si aplicable)
+bundler/
+
+# Ignorar registros de usuarios
+usercache.json
+
+banned-ips.json
+banned-players.json
+ops.json
+whitelist.json
+
+libraries/
