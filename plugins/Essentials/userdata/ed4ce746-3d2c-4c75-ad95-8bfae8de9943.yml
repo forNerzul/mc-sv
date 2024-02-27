@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1708913086089
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1708917637001
+  login: 1708911067893
+money: '0'
+last-account-name: Sergiochota
+lastlocation:
+  world: 721ee907-95de-4cee-824f-ec24561745da
+  world-name: world
+  x: -137.08931595132873
+  y: 77.0
+  z: -135.69999998807907
+  yaw: 11.250707626342773
+  pitch: 7.649845600128174
+logoutlocation:
+  world: 721ee907-95de-4cee-824f-ec24561745da
+  world-name: world
+  x: -137.08931595132873
+  y: 77.0
+  z: -135.69999998807907
+  yaw: 11.250707626342773
+  pitch: 7.649845600128174
